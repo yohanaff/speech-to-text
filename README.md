@@ -48,6 +48,8 @@ pasta_do_projeto/
 └── speechtotext.py
 ```
 
+## Uso
+
 1. Coloque os arquivos `.opus` dentro da pasta `audios/OPUS/`.
 2. Execute o script:
 
